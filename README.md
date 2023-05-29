@@ -22,6 +22,7 @@ La pokeApp es una es una aplicación que utiliza la PokeAPI para mostrar informa
 
 - Buscar Pokémon: Utiliza el buscador para encontrar Pokémon por su nombre.
 - Buscar por tipos de Pokemones: Selecciona entre los diferentes tipos de pokemons que existen
-- Favoritos: Agrega Pokémon a tu lista de favoritos haciendo clic en el botón correspondiente.
-- Eliminar de Favoritos: Elimina un Pokémon de tu lista de favoritos haciendo clic en el botón correspondiente.
-- Tarjeta de informacion pokemon: Al dar click en algun pokemon se despliega una descripcion mas detallada de su informacion de cada pokemon. 
+- Favoritos: Agrega Pokémons a tu lista de favoritos haciendo clic en la pokebola que se encuentra dentro de cada tarja pokemon.
+- Ver favoritos: Dar click a "See favorites pokemons" para ver los pokemons que mas te gustaron
+- Eliminar de Favoritos: Elimina un Pokémon de tu lista de favoritos haciendo clic en la "x".
+- Tarjeta de informacion pokemon: Al dar click en la tarja pokemon se despliega una descripcion mas detallada de su informacion. 
