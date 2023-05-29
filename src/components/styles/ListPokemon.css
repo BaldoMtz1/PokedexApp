@@ -1,0 +1,19 @@
+.listPokemons{
+  display: grid;
+  gap: 1.5rem;
+  justify-items: center;
+  grid-auto-rows: auto;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  padding: 1.5rem 1rem;
+  
+}
+
+
+@media (min-width: 600px) {
+
+  .listPokemons{
+    margin: 0 4rem;
+  }
+  
+  
+}

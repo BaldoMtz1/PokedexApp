@@ -1,0 +1,54 @@
+
+
+
+.header{
+
+  height: 85px;
+  width: 100%;
+  background-color: var(--color-footer);
+  position: relative;
+
+}
+
+.header_img{
+  max-width: 260px;
+  position: absolute;
+  
+  margin-left: 15px;
+}
+
+.header-black{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 33px;
+  width: 100%;
+  background-color: black;
+}
+
+.header-circle{
+  position: absolute;
+  bottom: -15px;
+  width: 70px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: black;
+  right: 5%;
+  
+  
+ 
+}
+
+
+.header-circle_int{
+  position: absolute;
+    bottom: 10px;
+    width: 50px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: rgb(32, 32, 32);
+    border: 7px solid whitesmoke;
+    left: 50%;
+    transform: translateX(-50%);
+
+}

@@ -1,0 +1,41 @@
+/* ====== VARIABLES CSS ====== */
+:root{
+  --color-red: #FE1936 ;  
+  --color-btn: #D93F3F;
+  --color-footer: #DD1A1A; 
+}
+
+
+/* html{
+  
+  
+} */
+
+.App{
+  padding-bottom: 85px;
+  position: relative;
+  min-height: 100vh;
+  
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+img{
+  width: 100%;
+  display: block;
+}
+
+a{
+  font-family: inherit;
+  text-decoration: none;
+}
+
+input{
+  outline: none;
+}
